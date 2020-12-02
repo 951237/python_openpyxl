@@ -1,4 +1,4 @@
-# 셀다루기
+# 셀다루기1
 ws["A1"] # a1 셀 선택
 
 ws.cell(row=1, column = 1).value    #A1의 값
